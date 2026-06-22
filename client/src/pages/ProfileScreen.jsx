@@ -12,7 +12,7 @@ export default function ProfileScreen() {
         <div className="flex items-center gap-2">
           <Shield className="h-6 w-6 text-purple-500" />
           <span className="font-extrabold text-lg bg-gradient-to-r from-purple-400 to-indigo-300 bg-clip-text text-transparent">
-            Naari Shield AI
+            Naari Shield
           </span>
         </div>
         <Link 

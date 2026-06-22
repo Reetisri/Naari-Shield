@@ -13,7 +13,7 @@ export default function LandingPage() {
               <Shield className="h-6 w-6 text-white" />
             </div>
             <span className="font-extrabold text-xl tracking-tight bg-gradient-to-r from-purple-400 to-indigo-300 bg-clip-text text-transparent">
-              Naari Shield AI
+              Naari Shield
             </span>
           </div>
           <div className="flex gap-4">
@@ -44,7 +44,7 @@ export default function LandingPage() {
             </span>
           </h1>
           <p className="text-slate-400 text-lg max-w-xl mx-auto lg:mx-0">
-            Naari Shield AI keeps you secure with voice-activated SOS triggers, live battery status, sound-evidence collection, rule-based risk profiling, and instant real-time guardian maps synchronization.
+            Naari Shield keeps you secure with voice-activated SOS triggers, live battery status, sound-evidence collection, rule-based risk profiling, and instant real-time guardian maps synchronization.
           </p>
           <div className="flex flex-col sm:flex-row items-center justify-center lg:justify-start gap-4">
             <Link to="/register" className="w-full sm:w-auto px-8 py-4 rounded-xl font-bold bg-gradient-to-r from-purple-600 to-indigo-600 hover:from-purple-500 hover:to-indigo-500 shadow-xl shadow-purple-500/10 hover:shadow-purple-500/25 active:scale-95 transition-all flex items-center justify-center gap-2 text-white">
@@ -110,7 +110,7 @@ export default function LandingPage() {
         <div className="text-center max-w-2xl mx-auto mb-16 space-y-4">
           <h2 className="text-3xl sm:text-4xl font-extrabold tracking-tight">Powerful Features Created For Safety</h2>
           <p className="text-slate-400">
-            Naari Shield AI implements instant browser endpoints and Socket.io triggers to bypass delay and protect evidence.
+            Naari Shield implements instant browser endpoints and Socket.io triggers to bypass delay and protect evidence.
           </p>
         </div>
 
@@ -349,7 +349,7 @@ export default function LandingPage() {
         <div className="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between gap-6">
           <div className="flex items-center gap-2">
             <Shield className="h-5 w-5 text-purple-400" />
-            <span className="font-bold text-white">Naari Shield AI</span>
+            <span className="font-bold text-white">Naari Shield</span>
           </div>
           <div className="flex items-center gap-6 text-sm">
             <a href="#features" className="hover:text-white transition-colors">Features</a>

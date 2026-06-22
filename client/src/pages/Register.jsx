@@ -62,7 +62,7 @@ export default function Register() {
               <Shield className="h-6 w-6 text-white" />
             </div>
             <span className="font-extrabold text-xl tracking-tight bg-gradient-to-r from-purple-400 to-indigo-300 bg-clip-text text-transparent">
-              Naari Shield AI
+              Naari Shield
             </span>
           </Link>
           <h2 className="text-2xl font-bold tracking-tight text-white mt-1">Create Account</h2>
